@@ -74,14 +74,14 @@ function feth(){
             document.getElementById("img8").src= "";
             document.getElementById("img9").src= "";
             document.getElementById("img10").src= "";
-            document.getElementById("img3").alt= "Only two images available of this"
-            document.getElementById("img4").alt= "only two images available of this";
-            document.getElementById("img5").alt= "only two images available of this";
-            document.getElementById("img6").alt= "only two images available of this";
-            document.getElementById("img7").alt= "only two images available of this";
-            document.getElementById("img8").alt= "only two images available of this";
-            document.getElementById("img9").alt= "only two images available of this";
-            document.getElementById("img10").alt= "only two images available of this";
+            document.getElementById("img3").alt= "Only two images available for this cam"
+            document.getElementById("img4").alt= "only two images available for this cam";
+            document.getElementById("img5").alt= "only two images available for this cam";
+            document.getElementById("img6").alt= "only two images available for this cam";
+            document.getElementById("img7").alt= "only two images available for this cam";
+            document.getElementById("img8").alt= "only two images available for this cam";
+            document.getElementById("img9").alt= "only two images available for this cam";
+            document.getElementById("img10").alt= "only two images available for this cam";
        
         }
     }
@@ -97,14 +97,14 @@ function feth(){
             document.getElementById("img8").src= "";
             document.getElementById("img9").src= "";
             document.getElementById("img10").src= "";
-            document.getElementById("img3").alt= "Only two images available of this"
-            document.getElementById("img4").alt= "only two images available of this";
-            document.getElementById("img5").alt= "only two images available of this";
-            document.getElementById("img6").alt= "only two images available of this";
-            document.getElementById("img7").alt= "only two images available of this";
-            document.getElementById("img8").alt= "only two images available of this";
-            document.getElementById("img9").alt= "only two images available of this";
-            document.getElementById("img10").alt= "only two images available of this";
+            document.getElementById("img3").alt= "Only two images available for this cam"
+            document.getElementById("img4").alt= "only two images available for this cam";
+            document.getElementById("img5").alt= "only two images available for this cam";
+            document.getElementById("img6").alt= "only two images available for this cam";
+            document.getElementById("img7").alt= "only two images available for this cam";
+            document.getElementById("img8").alt= "only two images available for this cam";
+            document.getElementById("img9").alt= "only two images available for this cam";
+            document.getElementById("img10").alt= "only two images available for this cam";
        
         }
     }
@@ -120,12 +120,12 @@ function feth(){
             document.getElementById("img8").src= "";
             document.getElementById("img9").src= "";
             document.getElementById("img10").src= "";
-            document.getElementById("img9").alt= "Only four images available of this"
-            document.getElementById("img10").alt= "only four images available of this";
-            document.getElementById("img5").alt= "only four images available of this";
-            document.getElementById("img6").alt= "only four images available of this";
-            document.getElementById("img7").alt= "only four images available of this";
-            document.getElementById("img8").alt= "only four images available of this";
+            document.getElementById("img9").alt= "Only four images available for this cam"
+            document.getElementById("img10").alt= "only four images available for this cam";
+            document.getElementById("img5").alt= "only four images available for this cam";
+            document.getElementById("img6").alt= "only four images available for this cam";
+            document.getElementById("img7").alt= "only four images available for this cam";
+            document.getElementById("img8").alt= "only four images available for this cam";
 
         }
     }
@@ -142,16 +142,16 @@ function feth(){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -167,16 +167,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -193,16 +193,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -219,16 +219,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -247,11 +247,11 @@ function feth(){
             document.getElementById("img9").src= "";
             document.getElementById("img10").src= "";
             document.getElementById("img5").src= imgnavcams[4];
-            document.getElementById("img6").alt= "only 5 pictures available of this";
-            document.getElementById("img7").alt= "only 5 pictures available of this";
-            document.getElementById("img8").alt= "only 5 pictures available of this";
-            document.getElementById("img9").alt= "only 5 pictures available of this";
-            document.getElementById("img10").alt= "only 5 pictures available of this";
+            document.getElementById("img6").alt= "only 5 pictures available for this cam";
+            document.getElementById("img7").alt= "only 5 pictures available for this cam";
+            document.getElementById("img8").alt= "only 5 pictures available for this cam";
+            document.getElementById("img9").alt= "only 5 pictures available for this cam";
+            document.getElementById("img10").alt= "only 5 pictures available for this cam";
         }
     }
 
@@ -267,14 +267,14 @@ function feth(){
             document.getElementById("img8").src= "";
             document.getElementById("img9").src= "";
             document.getElementById("img10").src= "";
-            document.getElementById("img3").alt= "Only two images available of this"
-            document.getElementById("img4").alt= "only two images available of this";
-            document.getElementById("img5").alt= "only two images available of this";
-            document.getElementById("img6").alt= "only two images available of this";
-            document.getElementById("img7").alt= "only two images available of this";
-            document.getElementById("img8").alt= "only two images available of this";
-            document.getElementById("img9").alt= "only two images available of this";
-            document.getElementById("img10").alt= "only two images available of this";
+            document.getElementById("img3").alt= "Only two images available for this cam"
+            document.getElementById("img4").alt= "only two images available for this cam";
+            document.getElementById("img5").alt= "only two images available for this cam";
+            document.getElementById("img6").alt= "only two images available for this cam";
+            document.getElementById("img7").alt= "only two images available for this cam";
+            document.getElementById("img8").alt= "only two images available for this cam";
+            document.getElementById("img9").alt= "only two images available for this cam";
+            document.getElementById("img10").alt= "only two images available for this cam";
        
         }
     }
@@ -291,16 +291,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -316,16 +316,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -341,16 +341,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -366,16 +366,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -391,16 +391,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -417,16 +417,16 @@ function feth(){
             document.getElementById("img10").src= "";
             document.getElementById("img2").src= "";
             document.getElementById("img1").src= "";
-            document.getElementById("img1").src= "No picture available of this";
-            document.getElementById("img2").src= "No picture available of this";
-            document.getElementById("img3").alt= "No picture available of this";
-            document.getElementById("img4").alt= "no picture available of this";
-            document.getElementById("img5").alt= "no picture available of this";
-            document.getElementById("img6").alt= "no picture available of this";
-            document.getElementById("img7").alt= "no picture available of this";
-            document.getElementById("img8").alt= "no picture available of this";
-            document.getElementById("img9").alt= "no picture available of this";
-            document.getElementById("img10").alt= "no picture available of this";
+            document.getElementById("img1").src= "No picture available for this cam";
+            document.getElementById("img2").src= "No picture available for this cam";
+            document.getElementById("img3").alt= "No picture available for this cam";
+            document.getElementById("img4").alt= "no picture available for this cam";
+            document.getElementById("img5").alt= "no picture available for this cam";
+            document.getElementById("img6").alt= "no picture available for this cam";
+            document.getElementById("img7").alt= "no picture available for this cam";
+            document.getElementById("img8").alt= "no picture available for this cam";
+            document.getElementById("img9").alt= "no picture available for this cam";
+            document.getElementById("img10").alt= "no picture available for this cam";
        
         }
     }
@@ -447,12 +447,12 @@ if (camjs === "pancam"){
         document.getElementById("img8").src= "";
         document.getElementById("img9").src= "";
         document.getElementById("img10").src= "";
-        document.getElementById("img9").alt= "Only four images available of this"
-        document.getElementById("img10").alt= "only four images available of this";
-        document.getElementById("img5").alt= "only four images available of this";
-        document.getElementById("img6").alt= "only four images available of this";
-        document.getElementById("img7").alt= "only four images available of this";
-        document.getElementById("img8").alt= "only four images available of this";
+        document.getElementById("img9").alt= "Only four images available for this cam"
+        document.getElementById("img10").alt= "only four images available for this cam";
+        document.getElementById("img5").alt= "only four images available for this cam";
+        document.getElementById("img6").alt= "only four images available for this cam";
+        document.getElementById("img7").alt= "only four images available for this cam";
+        document.getElementById("img8").alt= "only four images available for this cam";
 
     }
 } 
@@ -471,14 +471,14 @@ if (camjs === "pancam"){
         document.getElementById("img8").src= "";
         document.getElementById("img9").src= "";
         document.getElementById("img10").src= "";
-        document.getElementById("img3").alt= "Only two images available of this"
-        document.getElementById("img4").alt= "only two images available of this";
-        document.getElementById("img5").alt= "only two images available of this";
-        document.getElementById("img6").alt= "only two images available of this";
-        document.getElementById("img7").alt= "only two images available of this";
-        document.getElementById("img8").alt= "only two images available of this";
-        document.getElementById("img9").alt= "only two images available of this";
-        document.getElementById("img10").alt= "only two images available of this";
+        document.getElementById("img3").alt= "Only two images available for this cam"
+        document.getElementById("img4").alt= "only two images available for this cam";
+        document.getElementById("img5").alt= "only two images available for this cam";
+        document.getElementById("img6").alt= "only two images available for this cam";
+        document.getElementById("img7").alt= "only two images available for this cam";
+        document.getElementById("img8").alt= "only two images available for this cam";
+        document.getElementById("img9").alt= "only two images available for this cam";
+        document.getElementById("img10").alt= "only two images available for this cam";
    
     }
   }
@@ -495,16 +495,16 @@ if (camjs === "pancam"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
@@ -520,16 +520,16 @@ if (camjs === "rhaz"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
@@ -545,16 +545,16 @@ if (camjs === "chemcam"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
@@ -570,16 +570,16 @@ if (camjs === "minites"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
@@ -595,16 +595,16 @@ if (camjs === "mahli"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
@@ -621,16 +621,16 @@ if (camjs === "mardi"){
         document.getElementById("img10").src= "";
         document.getElementById("img2").src= "";
         document.getElementById("img1").src= "";
-        document.getElementById("img1").src= "No picture available of this";
-        document.getElementById("img2").src= "No picture available of this";
-        document.getElementById("img3").alt= "No picture available of this";
-        document.getElementById("img4").alt= "no picture available of this";
-        document.getElementById("img5").alt= "no picture available of this";
-        document.getElementById("img6").alt= "no picture available of this";
-        document.getElementById("img7").alt= "no picture available of this";
-        document.getElementById("img8").alt= "no picture available of this";
-        document.getElementById("img9").alt= "no picture available of this";
-        document.getElementById("img10").alt= "no picture available of this";
+        document.getElementById("img1").src= "No picture available for this cam";
+        document.getElementById("img2").src= "No picture available for this cam";
+        document.getElementById("img3").alt= "No picture available for this cam";
+        document.getElementById("img4").alt= "no picture available for this cam";
+        document.getElementById("img5").alt= "no picture available for this cam";
+        document.getElementById("img6").alt= "no picture available for this cam";
+        document.getElementById("img7").alt= "no picture available for this cam";
+        document.getElementById("img8").alt= "no picture available for this cam";
+        document.getElementById("img9").alt= "no picture available for this cam";
+        document.getElementById("img10").alt= "no picture available for this cam";
    
     }
 }
