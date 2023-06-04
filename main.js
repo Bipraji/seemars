@@ -638,5 +638,14 @@ if (camjs === "mardi"){
 
 }
 
+function detect(){
+    return /Android|Iphone/i.test(navigator.userAgent);
+    {
+ 
+        
+ if (detect === true){
+     alert("Please Switch to a Computer to get best experience");
+     {
+         
 
     
